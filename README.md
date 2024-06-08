@@ -8,10 +8,10 @@ Welcome to Language is Simple, our GitHub organization dedicated to providing us
 
 | Repository Name      | Description                                                                                              | Link                                                                                   |
 |----------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| Cpp-Assignments      | A variety of C++ assignments designed to help students understand fundamental and advanced concepts.     | [Cpp-Assignments](https://github.com/Language-is-Simple/Cpp-Assignments)               |
-| Python-Assignments   | Python assignments aimed at beginners as well as intermediate learners covering basic and advanced topics.| [Python-Assignments](https://github.com/Language-is-Simple/Python-Assignments)         |
-| Data-Structures      | A comprehensive collection of data structures implemented in various programming languages.              | [Data-Structures](https://github.com/Language-is-Simple/Data-Structures)               |
-| Algorithms           | Various algorithms explained with code examples and comments, focusing on design, analysis, and implementation. | [Algorithms](https://github.com/Language-is-Simple/Algorithms)                         |
+| Cpp-Assignments      | A variety of C++ assignments designed to help students understand fundamental and advanced concepts.     | [Cpp-Assignments](https://github.com/LanguageisSimple/Cpp-Assignments)               |
+| Python-Assignments   | Python assignments aimed at beginners as well as intermediate learners covering basic and advanced topics.| [Python-Assignments](https://github.com/LanguageisSimple/Python-Assignments)         |
+| Data-Structures      | A comprehensive collection of data structures implemented in various programming languages.              | [Data-Structures](https://github.com/LanguageisSimple/Data-Structures)               |
+| Algorithms           | Various algorithms explained with code examples and comments, focusing on design, analysis, and implementation. | [Algorithms](https://github.com/LanguageisSimple/Algorithms)                         |
 
 ## How to Use
 
